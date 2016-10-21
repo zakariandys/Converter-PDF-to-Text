@@ -1,4 +1,4 @@
-# Tutorial-Convert-PDF-to-Text
+#Converter-PDF-to-Text
 Dokumentasi tentang bagaimana membuat aplikasi file converting sederhana berbasis desktop dengan bahasa pemrograman Java. Dapat mengkonversi file PDF menjadi file Text menggunakan library iText 5.5.7.
 
 
